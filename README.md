@@ -1,2 +1,4 @@
-# calling-with-your-name
-when you enter your name it will reply
+print("hello whats is yur name")
+root = input()
+print("hi",{root})
+#calling-with-your-name
